@@ -54,4 +54,4 @@ This project is intended for educational and portfolio purposes. While it follow
 3. Professional Security Audit.
 
 ---
-Created by Antigravity AI
+Created by ruok
